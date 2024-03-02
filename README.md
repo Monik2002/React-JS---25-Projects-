@@ -24,4 +24,4 @@ This project is a simple star rating component which can be used to rate any pro
 2. Navigate to the project directory in the terminal.
 3. Run `npm install` to install all the dependencies
 4. Run `npm run dev` to start the project
-5. Open `http://localhost:5173/)` in your browser to see the project
+5. Open `http://localhost:5000/)` in your browser to see the project
