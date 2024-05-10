@@ -1,6 +1,6 @@
 // import React from 'react'
 
-// import Accordian from './Components/accordian';
+import Accordian from "./Components/accordian";
 // import RandomColors from "./Components/random-colors";
 // import StarRating from "./Components/star-rating";
 import "./App.css";
@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       {/* Accordion component */}
-      {/* <Accordian /> */}
+      <Accordian />
 
       {/* Random Color Componenent*/}
       {/* <RandomColors /> */}
